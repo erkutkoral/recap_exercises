@@ -41,12 +41,12 @@
 Python
   - Built-in methods:
       - type()
-      - string methods: lower(), upper(), replace(), split()
-      - list methods: append(), insert(), pop(), slicing operations
-      - dictionary methods: keys(), values(), items(), update(), get(), pop()
-      - functions: docstrings, body parts, if-else conditions, for loops and print and return clauses
-      - list comprehensions
-      - pandas methods: value_counts(), isnull().sum(), astype(), groupby, column conditions, sort_values()
+      - **string methods**: lower(), upper(), replace(), split()
+      - **list methods**: append(), insert(), pop(), slicing operations
+      - **dictionary methods**: keys(), values(), items(), update(), get(), pop()
+      - **functions**: docstrings, body parts, if-else conditions, for loops and print and return clauses
+      - **list comprehensions**
+      - **pandas methods**: value_counts(), isnull().sum(), astype(), groupby, column conditions, sort_values()
 
 ## Roadmap
 
