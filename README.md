@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/recap_exercises">
-    <img src="https://logowik.com/python-vector-logo-4431.html" alt="Logo" width="600" height="400">
+    <img src="https://www.python.org/static/community_logos/python-powered-w.svg" alt="Logo" width="600" height="400">
   </a>
 
   <h3 align="center">recap_exercises</h3>
